@@ -1,6 +1,6 @@
 # :wave: Hi! I'm Paul.
 
-<details open>
+<details>
   <summary><b>:briefcase: GitHub Activity and Statistics<b/></summary> 
   <img src="https://github-readme-stats.vercel.app/api?username=itsmewulf&count_private=true&show_icons=true&theme=radical" />
 </details>
