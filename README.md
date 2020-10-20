@@ -26,6 +26,5 @@
 [![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=whit)]()
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![WebStorm](https://img.shields.io/badge/WebStorm-1D88D0?style=for-the-badge&logo=webstorm&logoColor=black)]()
 </p>
 </details>
