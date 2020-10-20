@@ -1,7 +1,7 @@
 # :wave: Hi! I'm Paul.
 I am a software developer, basketball player, avid dog lover and a future lawyer. 
 I started programming not so long ago, but I quickly caught up to the chase and I'm learning new languages and frameworks day by day.
-Pop in for a chat over at [Team Orion](https://discord.gg/3e5fwpA) or [codebyte](https://discord.gg/gjfGKSs) on Discord!
+Come for a chat over at [Team Orion](https://discord.gg/3e5fwpA) or [codebyte](https://discord.gg/gjfGKSs) on Discord!
 
 
 <details>
