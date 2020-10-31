@@ -3,7 +3,7 @@
 I started programming not so long ago, but I quickly caught up to the chase and I'm learning new languages and frameworks day by day.
 A few days ago I released a [GitHub Discord Bot](https://discord.com/oauth2/authorize?client_id=761269120691470357&scope=bot&permissions=67619904) written in Python.
 Practicing full-stack development skills with PostgreSQL, ExpressJS, React and NodeJS (PERN-stack), to work on future projects and gain development experience.<br>
-Feel free to come and chat over at [statch](https://discord.gg/3e5fwpA) or [codebyte](https://discord.gg/gjfGKSs) on Discord!
+Feel free to come and chat with me over at [statch](https://discord.gg/3e5fwpA) or [codebyte](https://discord.gg/gjfGKSs) on Discord!
 
 
 <details>
