@@ -1,5 +1,5 @@
 # :wave: Hi! I'm Paul.
-**I am a software developer, basketball player and an avid dog lover.**<br>
+**I am a software developer, student and an avid dog lover.**<br>
 I started programming not so long ago, but I quickly caught up to the chase and I'm learning new languages and frameworks day by day.
 A few days ago I released a [GitHub Discord Bot](https://discord.com/oauth2/authorize?client_id=761269120691470357&scope=bot&permissions=67619904) written in Python.
 Practicing full-stack development skills with PostgreSQL, ExpressJS, React and NodeJS (PERN-stack), to work on future projects and gain development experience.<br>
