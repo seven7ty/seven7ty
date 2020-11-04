@@ -8,7 +8,7 @@ Feel free to come and chat with me over at [statch](https://discord.gg/3e5fwpA) 
 
 <details>
   <summary><b>:briefcase: GitHub Activity and Statistics<b/></summary> 
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmewulf&count_private=true&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmewulf&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true" />
 </details>
 
 <details open>
