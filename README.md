@@ -36,3 +36,21 @@ Feel free to come and chat with me over at [statch](https://discord.gg/3e5fwpA) 
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 </p>
 </details>
+
+<details open>
+<summary>:mailbox: <b>Socials</b></summary>
+<p>
+
+<a href="mailto:wulf.developer@gmail.com@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
+<a href="https://github.com/itsmewulf" target="_blank">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://discord.gg/3e5fwpA" target="_blank">
+  <img src="https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="https://twitter.com/wulf_dev" target="_blank" href="https://twitter.com/TrustedMercury">
+  <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+</p>
