@@ -56,4 +56,4 @@ Feel free to come and chat with me over at [statch](https://discord.gg/3e5fwpA) 
 </a>
 </p>
 
-![](https://api.ghprofile.me/view?username=YOUR_USERNAME)
+![](https://api.ghprofile.me/view?username=itsmewulf&label=Views&color=F0994B)
