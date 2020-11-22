@@ -55,5 +55,3 @@ Feel free to come and chat with me over at [statch](https://discord.gg/3e5fwpA) 
   <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 </p>
-
-![](https://api.ghprofile.me/view?username=itsmewulf&label=Views&color=F0994B)
