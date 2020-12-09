@@ -45,9 +45,6 @@ Feel free to come and chat with me over at [statch](https://discord.gg/3e5fwpA) 
 <a href="mailto:wulf.developer@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
-<a href="https://github.com/itsmewulf" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github" />
-</a>
 <a href="https://discord.gg/3e5fwpA" target="_blank">
   <img src="https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
