@@ -47,7 +47,10 @@ Feel free to come and chat with me over at [statch](https://discord.gg/3e5fwpA) 
 <a href="https://discord.gg/3e5fwpA" target="_blank">
   <img src="https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
-<a href="https://twitter.com/wulf_dev" target="_blank" href="https://twitter.com/TrustedMercury">
+<a href="https://twitter.com/wulf_dev" target="_blank">
   <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://reddit.com/u/itsmewulf" target="_blank">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=ffffff&style=for-the-badge" />
 </a>
 </p>
