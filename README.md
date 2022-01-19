@@ -41,7 +41,7 @@ Feel free to come and chat with me over at [statch](https://discord.gg/3e5fwpA) 
 <summary>:mailbox: <b>Socials</b></summary>
 <p>
 
-<a href="mailto:wulf.developer@gmail.com" target="_blank">
+<a href="mailto:hello@wulf.codes" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 <a href="https://discord.gg/3e5fwpA" target="_blank">
