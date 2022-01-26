@@ -4,6 +4,8 @@ I mostly focus on developing using Python and JavaScript, but I actively try to 
 Practicing full-stack development skills with PostgreSQL, ExpressJS, React and Node.js (PERN-stack), to work on future projects and gain development experience.<br>
 Feel free to come and chat with me over at [statch](https://discord.gg/3e5fwpA) on Discord!
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <details>
   <summary><b>:briefcase: GitHub Activity and Statistics<b/></summary> 
