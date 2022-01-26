@@ -19,11 +19,6 @@ Python       4 hrs 31 mins   █████████████████
 </p>
 </details>
 
-<details>
-  <summary><b>:briefcase: GitHub Activity and Statistics<b/></summary> 
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmewulf&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true" />
-</details>
-
 <details open>
 <summary>:ocean: <b>Stuff I use</b></summary>
 <p>
