@@ -11,6 +11,9 @@ Feel free to come and chat with me over at [statch](https://discord.gg/3e5fwpA) 
 <p>
 
 <!--START_SECTION:waka-->
+```text
+Python       4 hrs 31 mins   █████████████████████████   99.58 % 
+```
 <!--END_SECTION:waka-->
 
 </p>
