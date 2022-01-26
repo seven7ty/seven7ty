@@ -4,11 +4,17 @@ I mostly focus on developing using Python and JavaScript, but I actively try to 
 Practicing full-stack development skills with PostgreSQL, ExpressJS, React and Node.js (PERN-stack), to work on future projects and gain development experience.<br>
 Feel free to come and chat with me over at [statch](https://discord.gg/3e5fwpA) on Discord!
 
+<details open>
+<summary>
+⏰ Development Duration
+</summary>
+<p>
+
 <!--START_SECTION:waka-->
-```text
-Python       4 hrs 31 mins   █████████████████████████   99.58 % 
-```
 <!--END_SECTION:waka-->
+
+</p>
+</details>
 
 <details>
   <summary><b>:briefcase: GitHub Activity and Statistics<b/></summary> 
