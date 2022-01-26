@@ -54,3 +54,5 @@ Feel free to come and chat with me over at [statch](https://discord.gg/3e5fwpA) 
   <img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=ffffff&style=for-the-badge" />
 </a>
 </p>
+  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/wulf_)
