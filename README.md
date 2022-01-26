@@ -5,6 +5,9 @@ Practicing full-stack development skills with PostgreSQL, ExpressJS, React and N
 Feel free to come and chat with me over at [statch](https://discord.gg/3e5fwpA) on Discord!
 
 <!--START_SECTION:waka-->
+```text
+Python       4 hrs 31 mins   █████████████████████████   99.58 % 
+```
 <!--END_SECTION:waka-->
 
 <details>
