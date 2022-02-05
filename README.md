@@ -12,11 +12,9 @@ Feel free to come and chat with me over at [statch](https://discord.gg/3e5fwpA) 
 
 <!--START_SECTION:waka-->
 ```text
-Python       5 hrs 25 mins   ███████████████████░░░░░░   75.80 % 
-JSON         1 hr 36 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.49 % 
-SQL          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-Text         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-Properties   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Python           3 hrs 51 mins   ██████████████████████▓░░   90.05 % 
+JSON             20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+PythonStub       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 ```
 <!--END_SECTION:waka-->
 
