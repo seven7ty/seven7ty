@@ -12,6 +12,8 @@ Feel free to come and chat with me over at [statch](https://discord.gg/3e5fwpA) 
 
 <!--START_SECTION:waka-->
 ```text
+Total: 9 hrs 12 mins
+
 Python       6 hrs 44 mins   ██████████████████▒░░░░░░   73.16 % 
 Text         30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 JSON         29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
