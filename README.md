@@ -12,13 +12,13 @@ Feel free to come and chat with me over at [statch](https://discord.gg/3e5fwpA) 
 
 <!--START_SECTION:waka-->
 ```text
-Total: 5 hrs 19 mins
+Total: 4 hrs 46 mins
 
-Python       3 hrs 38 mins   █████████████████░░░░░░░░   68.35 % 
-Text         29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-JavaScript   27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-Docker       14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-YAML         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Python       3 hrs 8 mins    ████████████████▒░░░░░░░░   65.86 % 
+Text         29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+JavaScript   27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Docker       14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+YAML         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 ```
 <!--END_SECTION:waka-->
 
