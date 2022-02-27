@@ -12,7 +12,11 @@ Feel free to come and chat with me over at [statch](https://discord.gg/3e5fwpA) 
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   29 mins         █████████████████████████   100.00 % 
+C#           1 hr 22 mins    █████████████████░░░░░░░░   67.68 % 
+JavaScript   29 mins         ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
+Other        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Git Config   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+JSON         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 ```
 <!--END_SECTION:waka-->
 
