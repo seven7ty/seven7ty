@@ -13,9 +13,7 @@ Feel free to come and chat with me over at [statch](https://discord.gg/3e5fwpA) 
 <!--START_SECTION:waka-->
 
 ```text
-C#           1 hr 28 mins    ███████████████████████░░   91.98 %
-JSON         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-Other        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
