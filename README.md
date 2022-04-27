@@ -13,10 +13,8 @@ Feel free to come and chat with me over at [statch](https://discord.gg/3e5fwpA) 
 <!--START_SECTION:waka-->
 
 ```text
-Python           1 hr 15 mins    ██████████████████████▒░░   89.12 %
-Rust             6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
-GitIgnore file   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Python           1 hr 15 mins    ████████████████████████▒   96.71 %
+GitIgnore file   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
 ```
 
 <!--END_SECTION:waka-->
