@@ -1,5 +1,5 @@
 # :wave: Hi! I'm Paul.
-**I am a software developer, entrepreneur, student and an avid dog lover.**<br>
+**I am a software developer, entrepreneur, student, and avid dog lover.**<br>
 I mostly focus on developing using Python and JavaScript, but I actively try to broaden my programming horizons with other languages as well.
 Practicing full-stack development skills with PostgreSQL, ExpressJS, React and Node.js (PERN-stack), to work on future projects and gain development experience.<br>
 Feel free to come and chat with me over at [statch](https://discord.gg/3e5fwpA) on Discord!
