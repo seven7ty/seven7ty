@@ -1,7 +1,7 @@
 # :wave: Hi! I'm Paul.
 **I am a software developer, entrepreneur, student, and avid dog lover.**<br>
 I mostly focus on developing using Python and JavaScript, but I actively try to broaden my programming horizons with other languages as well.
-Practicing full-stack development skills with PostgreSQL, ExpressJS, React and Node.js (PERN-stack), to work on future projects and gain development experience.<br>
+Practicing full-stack development skills with PostgreSQL, ExpressJS, React and Node.js (PERN-stack), to work on future projects and gain development experience, as well as Rust for low-level, high-performance backend development.<br>
 Feel free to come and chat with me over at [statch](https://discord.gg/3e5fwpA) on Discord!
 
 <details open>
@@ -33,6 +33,7 @@ Bash               10 mins         ▒░░░░░░░░░░░░░░
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white)]()
 [![Go](https://img.shields.io/badge/Golang-00A7D0?style=for-the-badge&logo=go&logoColor=white)]()
+[![Rust](https://img.shields.io/badge/Rust-D73824?style=for-the-badge&logo=rust&logoColor=white)]()
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white)]()
