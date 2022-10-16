@@ -13,7 +13,7 @@ Feel free to come and chat with me over at [statch](https://discord.gg/3e5fwpA) 
 <!--START_SECTION:waka-->
 
 ```text
-Python   20 mins         █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
