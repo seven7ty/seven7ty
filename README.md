@@ -73,6 +73,9 @@ HTML               0 secs          ░░░░░░░░░░░░░░░
 <a href="https://keybase.io/itswulf" target="_blank">
   <img src="https://img.shields.io/badge/Keybase-319bf7?logo=keybase&logoColor=ffffff&style=for-the-badge" />
 </a>
+ <a href="https://mastodon.social/@wulfx" rel="me" target="_blank">
+  <img src="https://img.shields.io/badge/Mastodon-6364ff?logo=mastodon&logoColor=ffffff&style=for-the-badge" />
+</a>
 </p>
   
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/wulf_)
