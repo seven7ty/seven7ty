@@ -13,7 +13,11 @@ Feel free to come and chat with me over at [statch](https://discord.gg/3e5fwpA) 
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python      1 hr 21 mins    ████████████████████░░░░░   80.28 %
+HTML        16 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.69 %
+Bash        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+.env file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+JSON        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
