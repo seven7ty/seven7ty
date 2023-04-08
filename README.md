@@ -13,12 +13,12 @@ Feel free to come and chat with me over at [statch](https://discord.gg/3e5fwpA) 
 <!--START_SECTION:waka-->
 
 ```text
-Python             9 hrs 37 mins   ██████████████████████▓░░   90.15 %
-JSON               23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
-SQL                14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-GraphQL            13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-.env file          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-Bash               5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Python           7 hrs 21 mins   ██████████████████████▒░░   89.75 %
+SQL              14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+JSON             10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+GraphQL          10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+.env file        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Bash             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 ```
 
 <!--END_SECTION:waka-->
