@@ -13,12 +13,12 @@ Feel free to come and chat with me over at [statch](https://discord.gg/3e5fwpA) 
 <!--START_SECTION:waka-->
 
 ```text
-Python             10 hrs          ██████████████████████▒░░   89.56 %
-JSON               18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-Markdown           12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-Text               12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-GraphQL            6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-requirements.txt   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Python             12 hrs 41 mins  █████████████████████░░░░   83.86 %
+JavaScript         56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+JSON               35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+Text               12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Markdown           12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+GraphQL            6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
