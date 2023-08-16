@@ -13,9 +13,10 @@ Feel free to come and chat with me over at [statch](https://discord.gg/3e5fwpA) 
 <!--START_SECTION:waka-->
 
 ```txt
-Python           1 hr 15 mins    ███████████████████████▒░   93.12 %
-GitIgnore file   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
-PowerShell       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Python           2 hrs 10 mins   ███████████████████████▓░   94.79 %
+GitIgnore file   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+JSON             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+PowerShell       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
