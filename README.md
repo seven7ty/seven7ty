@@ -13,11 +13,11 @@ Feel free to come and chat with me over at [statch](https://discord.gg/3e5fwpA) 
 <!--START_SECTION:waka-->
 
 ```txt
-Python             2 hrs 52 mins   ██████████████████████▓░░   91.26 %
-JSON               10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
-.env file          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-GitIgnore file     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-HTML               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Python             2 hrs 21 mins   ███████████████████████░░   92.64 %
+JSON               8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+.env file          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+HTML               1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
