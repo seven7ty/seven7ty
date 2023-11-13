@@ -13,7 +13,7 @@ Feel free to come and chat with me over at [statch](https://discord.gg/3e5fwpA) 
 <!--START_SECTION:waka-->
 
 ```txt
-Python       2 hrs 43 mins   ████████████████████████▓   98.30 %
+Python       2 hrs 42 mins   ████████████████████████▓   98.29 %
 Batchfile    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 Batch        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 .env file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
