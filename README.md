@@ -13,8 +13,7 @@ Feel free to come and chat with me over at [statch](https://discord.gg/3e5fwpA) 
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby             45 mins         █████████████████████████   99.54 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Ruby   27 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
